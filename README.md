@@ -38,7 +38,12 @@
 
 ---
 
-##  📜 Day 3 Task3
+##  📜 Day 3 Linux Commands Task History
+
+<img width="912" height="994" alt="History command screenshot 1" src="https://github.com/user-attachments/assets/48538b6b-4ec5-488f-ab54-2a8684e4d665" />
+<img width="800" height="998" alt="History command screenshot 2" src="https://github.com/user-attachments/assets/367758eb-6919-4d0c-9c17-335f08c334a5" />
+<img width="876" height="999" alt="history command screenshot 3" src="https://github.com/user-attachments/assets/38b31b59-bb9f-449f-acd1-d10b0a2f5a4d" />
+<img width="876" height="999" alt="History command screenshot 4" src="https://github.com/user-attachments/assets/664247b4-f057-49fe-aa9a-8a83d1f2acc1" />
 
 
 
