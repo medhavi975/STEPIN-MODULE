@@ -1,11 +1,11 @@
 # STEP-IN MODULE
 
 # WEEK 1
-# AGILE CERTIFICATE
+## AGILE CERTIFICATE
 <img width="949" height="479" alt="5025031_MEDHAVI SHARMA_AGILE CERTIFICATE" src="https://github.com/user-attachments/assets/183c4294-305f-42e1-9982-2fcaf33aa0ee" />
 
 # WEEK 2
-# GIT CERTIFICATE
+## GIT CERTIFICATE
 <img width="954" height="674" alt="Screenshot 2025-08-04 214146" src="https://github.com/user-attachments/assets/9199369f-120c-4b81-9b89-2b1a696598f6" />
 
 
@@ -57,10 +57,11 @@
 
 
 # WEEK 4
-# Certificate Introduction to C language 
+## Certificate Introduction to C language 
 
 <img width="1155" height="817" alt="Screenshot 2025-08-04 214318" src="https://github.com/user-attachments/assets/f8ba14da-d90f-4831-bb06-bf1eabb09350" />
 
+## Certificate C Intermediate
 ![WhatsApp Image 2025-08-04 at 21 49 18_adf9e854](https://github.com/user-attachments/assets/d6da505d-e234-4e06-ab8e-8214cb23ac60)
 
 
