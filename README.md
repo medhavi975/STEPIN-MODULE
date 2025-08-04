@@ -6,10 +6,7 @@
 
 # WEEK 2
 # GIT CERTIFICATE
-
-
-
-
+<img width="954" height="674" alt="Screenshot 2025-08-04 214146" src="https://github.com/user-attachments/assets/9199369f-120c-4b81-9b89-2b1a696598f6" />
 
 
 # WEEK 3 
@@ -60,6 +57,8 @@
 
 
 # WEEK 4
+
+<img width="1155" height="817" alt="Screenshot 2025-08-04 214318" src="https://github.com/user-attachments/assets/f8ba14da-d90f-4831-bb06-bf1eabb09350" />
 
 ---
 
